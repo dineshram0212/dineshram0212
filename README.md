@@ -9,17 +9,10 @@ Whether it’s brainstorming ideas, solving problems, or diving into hands-on wo
 
 ### 🛠 Skills
 
-Here are a few of the technologies and tools I work with:
-
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)  
-- ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)  
-- ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)  
-- ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white)  
-- ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
-- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)  
-- ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white)  
-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)  
-- ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=black)
+- **Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white), SQL, R, C++
+- **Frameworks**: ![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=React&logoColor=black), ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=FastAPI&logoColor=white), ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white), ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+- **Core**: Data Analytics, Machine Learning, Deep Learning, NLP, Generative AI
+- **Tools**: ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=Power-BI&logoColor=black), ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white), ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white), ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
 
 ### 🚀 Let’s Connect!
 
