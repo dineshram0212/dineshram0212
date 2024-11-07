@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./Exploring tech, one project (and bug) at a time.png" alt="Welcome Banner" width="800"/>
+</p>
+
 # 👋 Hello, I'm Dinesh!
 
 I'm an **AI Engineer** who loves building impactful AI models and exploring innovative projects that push the boundaries of what’s possible with AI. From **computer vision** to **NLP** and beyond, I'm always on the lookout for new challenges that allow me to learn and create.
@@ -12,7 +16,7 @@ Whether it’s brainstorming ideas, solving problems, or diving into hands-on wo
 - **Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white), SQL, R, C++
 - **Frameworks**: ![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=React&logoColor=black), ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=FastAPI&logoColor=white), ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white), ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 - **Core**: Data Analytics, Machine Learning, Deep Learning, NLP, Generative AI
-- **Tools**: ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=Power-BI&logoColor=black), ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white), ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white), ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
+- **Tools**: ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=Power-BI&logoColor=black), ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white), ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white), ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
 
 ### 🚀 Let’s Connect!
 
