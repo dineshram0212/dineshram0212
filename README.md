@@ -1,4 +1,4 @@
-##👋 Hello, I'm Dinesh!
+## 👋 Hello, I'm Dinesh!
 I'm an AI Engineer who loves building impactful AI models and exploring innovative projects that push the boundaries of what’s possible with AI. From computer vision to NLP and beyond, I'm always on the lookout for new challenges that allow me to learn and create.
 
 💡 What I Do
